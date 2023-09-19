@@ -1,2 +1,3 @@
 # get_next_line
-Reads content line by line. 
+
+Returns a line read from a file descriptor.
